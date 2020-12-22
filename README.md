@@ -3,7 +3,7 @@
 ### Sobre mim:
 **Front-end Developer.**
 
-###Habilidades:
+### Habilidades:
 **HTML5, CSS3, JavaScript**
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EduardooPV)](https://github.com/EduardooPV)
