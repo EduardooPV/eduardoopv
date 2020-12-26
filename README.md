@@ -6,6 +6,7 @@
 ### Habilidades:
 **HTML5, CSS3, JavaScript**
 
+### Meus contatos:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/EduardooPV)](https://github.com/EduardooPV)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-eduardo-prado-veltroni-3671971b3/)](https://www.linkedin.com/in/luiz-eduardo-prado-veltroni-3671971b3/)
 <a href="https://api.whatsapp.com/send?phone=5515981897613" alt="WhatsApp">
