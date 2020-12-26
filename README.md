@@ -1,10 +1,10 @@
-<h1 align="center"> Olá, me chamo Luiz Eduardo :D </h1>
+<h1> Olá, me chamo Luiz Eduardo :D </h1>
 
-<h3 align="center">Sobre mim:</h3>
-<p align="center">Aluno e desenvolvedor Front-end. </p>
+<h3>Sobre mim:</h3>
+<p>Aluno e desenvolvedor Front-end. </p>
 
-<h3 align="center"> Habilidades e Ferramentas: </h3>
-<p class="row" align="center">
+<h3> Habilidades e Ferramentas: </h3>
+<p class="row">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
