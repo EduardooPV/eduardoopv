@@ -3,7 +3,7 @@
 ### Sobre mim:
 - Front-end Developer.
 
-### Habilidades:
+### Habilidades e Ferramentas:
 - <div class="row">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/> 
