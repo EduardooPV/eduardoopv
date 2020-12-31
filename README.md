@@ -21,3 +21,16 @@
 <a href="https://api.whatsapp.com/send?phone=5515981897613" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5515981897613"/></a>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardoveltroni@hotmail.com)](mailto:eduardoveltroni@hotmail.com) 
+
+
+<h1 align="center">- Histórico de projetos -</h1>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardooPV&count_private=true&show_icons=true&theme=synthwave&bg_color=DEG,2C213B,2b213a,20172C,191224,120D1B" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardooPV&layout=compact&theme=synthwave&bg_color=DEG,2C213B,2b213a,20172C,191224,120D1B" />
+</p>
