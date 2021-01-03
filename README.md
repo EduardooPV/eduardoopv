@@ -6,13 +6,11 @@ Atualmente praticando e estudando tecnologias front-end. </p>
 
 <h1>Tecnologias e ferramentas: </h1>
 <p class="row">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/>
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="25px">
+  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png" width="22px">
+  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="26px">
   <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="30">
-  <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github" width="30" height="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="30" height="30"/>
  </p> 
 
 <h1>Meus contatos: </h1>
