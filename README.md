@@ -1,17 +1,20 @@
+<img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" min-width="400px" max-width="450px" width="350 px" align="right"  alt="Computador "> <br>
+
 <h1> Olá, bem vindo ao meu perfil! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25" alt="Hi Gif" /></h1>
 
-<p>Eu sou estudante de análise e desenvolvimento de sistemas. </br>
-Apaixonado por tecnologia e pelo design da web. </br> 
-Atualmente praticando e estudando tecnologias front-end. </p>
+<p>Me chamo <strong>Luiz Eduardo</strong> tenho <strong>20 anos</strong></p>
+<p>Estudando Análise e Desenvolvimento de Sistemas na UNOPAR. </p>
+<p>Desenvolvedor Front-end.</p> 
 
 <h1>Tecnologias e ferramentas: </h1>
+
 <p class="row">
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="25px">
-  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png" width="22px">
-  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="26px">
-  <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="30">
- </p> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="34px">
+  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png" width="30px">
+  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="34px">
+  <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="33">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" height="33">
+</p> 
 
 <h1>Meus contatos: </h1>
 
