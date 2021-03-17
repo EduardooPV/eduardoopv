@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" min-width="400px" max-width="450px" width="350 px" align="right"  alt="Computador ">
+<img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" min-width="400px" max-width="450px" width="350 px" align="right"  alt="Computador ">
 
 <h1> Olá, bem vindo ao meu perfil! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25" alt="Hi Gif" /></h1>
 
