@@ -1,10 +1,10 @@
-<h1> Olá, bem vindo ao meu perfil! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25" alt="Hi Gif" /></h1>
+<h1> Olá, bem vindo ao meu perfil!</h1>
 
 <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" min-width="400px" max-width="450px" width="350 px" align="right"  alt="Computador ">
 
 <p>Me chamo <strong>Luiz Eduardo</strong> tenho <strong>20 anos</strong></p>
 <p>Estudando Análise e Desenvolvimento de Sistemas na UNOPAR. </p>
-<p>Desenvolvedor Front-end.</p> 
+<h3>Desenvolvedor Front-end.</h3> 
 
 <h1>Tecnologias e ferramentas: </h1>
 
