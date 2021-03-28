@@ -1,6 +1,6 @@
 <h1> Olá, bem vindo ao meu perfil! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25" alt="Hi Gif" /></h1>
 
-<img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" min-width="400px" max-width="450px" width="350 px" align="right"  alt="Computador ">
+<img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" min-width="400px" max-width="450px" width="350 px" align="right"  alt="Computador ">
 
 <p>Me chamo <strong>Luiz Eduardo</strong> tenho <strong>20 anos</strong></p>
 <p>Estudando Análise e Desenvolvimento de Sistemas na UNOPAR. </p>
