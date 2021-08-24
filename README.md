@@ -2,18 +2,19 @@
 
 <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" min-width="400px" max-width="450px" width="350 px" align="right"  alt="Computador ">
 
-<p>Me chamo <strong>Luiz Eduardo</strong> tenho <strong>20 anos</strong></p>
-<p>Estudando Análise e Desenvolvimento de Sistemas na UNOPAR. </p>
-<h3>Desenvolvedor Front-end.</h3> 
+<p>Me chamo <strong>Luiz Eduardo</strong> tenho <strong>21 anos</strong></p>
+<p>Estudo Análise e Desenvolvimento de Sistemas na UNOPAR. </p>
+<h3><strong>Web Developer</strong></h3> 
+
 
 <h1>Tecnologias e ferramentas: </h1>
 
 <p class="row">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="34px">
-  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png" width="30px">
-  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="34px">
-  <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" height="33">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" height="33">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element" title="HTML5" alt="HTML5" target="_blank"> <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png" width="46px"> <a/>   
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS3" alt="CSS3" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="54px"> <a/>     
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="JavaScript" alt="JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="54px"> <a/>    
+  <a href="https://pt-br.reactjs.org/" title="React" alt="React" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" width="53px"> <a/> 
+  <a href="https://git-scm.com/" title="Git" alt="Git" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" height="53"> <a/>
 </p> 
 
 <h1>Meus contatos: </h1>
@@ -27,6 +28,7 @@
 <h1 align="center">- Historicos de projetos -</h1>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardooPV&count_private=true&show_icons=true&theme=synthwave&bg_color=DEG,2C213B,2b213a,20172C,191224,120D1B" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EduardooPV&count_private=true&show_icons=true&theme=synthwave&bg_color=DEG,2C213B,2b213a,20172C,191224,120D1B" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardooPV&layout=compact&theme=synthwave&bg_color=DEG,2C213B,2b213a,20172C,191224,120D1B" /> 
 </p>
 
