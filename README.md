@@ -43,7 +43,7 @@
 </p> 
 
 <h1>My contacts: </h1>
-  <a href="mailto:eduardoveltroni@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=medium&logoColor=white"></a>  
+  <a href="mailto:eduardoveltroni@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"></a>  
   <a href="https://www.linkedin.com/in/luiz-veltroni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href="https://eduardowebdev.medium.com/" target="_blank"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>  
 
