@@ -50,6 +50,6 @@
 <h1 align="center">- My project details -</h1>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EduardooPV&count_private=true&show_icons=true&theme=nord&hide_border=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EduardooPV&count_private=true&show_icons=true&theme=nord&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardooPV&layout=compact&theme=nord&hide_border=true" /> 
 </p>
