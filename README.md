@@ -8,7 +8,7 @@
 <p>I'm currently studying front-end technologies and tools, specializing in the <strong>React.js</strong> framework and its entire ecosystem.</p>
 <h3><strong>Web Developer</strong></h3> 
 
-<p class="row" align="center">
+<div class="row" align="center">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element" title="HTML5" alt="HTML5" target="_blank"> 
     <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="35px"> 
   <a/>  
@@ -36,7 +36,7 @@
   <a href="https://www.typescriptlang.org/" title="TypeScript" alt="TypeScript" target="_blank"> 
     <img src="https://image.flaticon.com/icons/png/512/919/919832.png" width="42px"> 
   <a/> 
-</p> 
+</div> 
 
 <p class="row" align="center">
     <a href="mailto:eduardoveltroni@hotmail.com" target="_blank">
