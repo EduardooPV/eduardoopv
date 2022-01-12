@@ -1,12 +1,12 @@
 
-<img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" min-width="400px" max-width="450px" width="350 px" align="right"  alt="Computador ">
+<img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="300px" align="right"  alt="Computador ">
 
 <h1>Hi, welcome to my profile!</h1>
 
 <p>My name is <strong>Luiz Eduardo</strong> I'm <strong>21 years</strong> old <p>
 <p>Study Analysis and Development of Systems at <strong>UNOPAR</strong>. </p>
 <p>I'm currently studying front-end technologies and tools, specializing in the <strong>React.js</strong> framework and its entire ecosystem.</p>
-<h3><strong>Web Developer</strong></h3> 
+<h3 width="100%"><strong>Web Developer</strong></h3> 
 
 <div class="row" align="center">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element" title="HTML5" alt="HTML5" target="_blank"> 
