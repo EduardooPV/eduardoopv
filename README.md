@@ -1,5 +1,5 @@
 
-<img src="https://2.bp.blogspot.com/-2xV1__qgzD8/U7xj4kk-V5I/AAAAAAABcnI/v7WnL2324f8/s1600/37.gif" width="400px" align="right"  alt="Computador ">
+<img src="https://2.bp.blogspot.com/-2xV1__qgzD8/U7xj4kk-V5I/AAAAAAABcnI/v7WnL2324f8/s1600/37.gif" width="40%" align="right"  alt="Computador ">
 
 <h1>Hi, welcome to my profile!</h1>
 
