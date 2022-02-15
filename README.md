@@ -3,7 +3,7 @@
 
 <h1>Hi, welcome to my profile!</h1>
 
-<p>My name is <strong>Luiz Eduardo</strong> I'm <strong>21 years</strong> old <p>
+<p>My name is <strong>Luiz Eduardo</strong>, but everyone calls me <strong>Dudu</strong>, now the gif makes sense, right? I'm <strong>21 years</strong> old.<p>
 <p>Study Analysis and Development of Systems at <strong>UNOPAR</strong>. </p>
 <p>I'm currently studying front-end technologies and tools, specializing in the <strong>React.js</strong> framework and its entire ecosystem.</p>
 <h2 width="100%"><strong>Front-end Developer.</strong></h2> 
