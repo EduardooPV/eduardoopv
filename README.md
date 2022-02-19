@@ -1,14 +1,16 @@
-
-<img src="https://2.bp.blogspot.com/-2xV1__qgzD8/U7xj4kk-V5I/AAAAAAABcnI/v7WnL2324f8/s1600/37.gif" width="40%" align="right"  alt="Computador ">
+<img src="https://2.bp.blogspot.com/-irmdKfX2TOg/U7xj8ueQUoI/AAAAAAABcok/XV037VXumLs/s1600/45.png" width="20%" align="right"  alt="Dudu ">
 
 <h1>Hi, welcome to my profile!</h1>
 
-<p>My name is <strong>Luiz Eduardo</strong>, but everyone calls me <strong>Dudu</strong>, now the gif makes sense, right? I'm <strong>21 years</strong> old.<p>
-<p>Study Analysis and Development of Systems at <strong>UNOPAR</strong>. </p>
-<p>I'm currently studying front-end technologies and tools, specializing in the <strong>React.js</strong> framework and its entire ecosystem.</p>
-<h2 width="100%"><strong>Front-end Developer.</strong></h2> 
+My name is Luiz Eduardo, but everyone calls me Dudu, now the image makes sense, right?
 
-<div class="row" align="center">
+Study Analysis and Development of Systems at <strong>UNOPAR</strong>. 
+
+I am a Front-end programmer and I continue to specialize in JavaScript, focusing lately on the **React.js** library with the **Next.js** framework, and its entire ecosystem.
+
+<h2><strong>Front-end Developer.</strong></h2> 
+
+<p class="row">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element" title="HTML5" alt="HTML5" target="_blank"> 
     <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" width="35px"> 
   <a/>  
@@ -36,9 +38,9 @@
   <a href="https://www.typescriptlang.org/" title="TypeScript" alt="TypeScript" target="_blank"> 
     <img src="https://image.flaticon.com/icons/png/512/919/919832.png" width="42px"> 
   <a/> 
-</div> 
+</p> 
 
-<p class="row" align="center">
+<p class="row">
     <a href="mailto:eduardoveltroni@hotmail.com" target="_blank">
       <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
     </a>  
@@ -50,7 +52,10 @@
     </a>  
 </p>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EduardooPV&count_private=true&show_icons=true&theme=nord&hide_border=true" />
+---
+    
+<div align="center"> 
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardooPV&layout=compact&theme=nord&hide_border=true" /> 
-</p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EduardooPV&count_private=true&show_icons=true&theme=nord&hide_border=true" />
+</div>
+
