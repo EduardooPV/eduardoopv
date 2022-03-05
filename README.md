@@ -1,14 +1,16 @@
 <img src="https://2.bp.blogspot.com/-irmdKfX2TOg/U7xj8ueQUoI/AAAAAAABcok/XV037VXumLs/s1600/45.png" width="20%" align="right"  alt="Dudu ">
 
-<h1>Hi, welcome to my profile!</h1>
+<h1>Oii, bem vindo ao meu perfil!</h1>
 
-My name is Luiz Eduardo, but everyone calls me Dudu, now the image makes sense, right?
+Me chamo **Luiz Eduardo**, mas todo mundo me chama de *Dudu*, agora a imagem faz sentido, né? kkkkk
 
-Study Analysis and Development of Systems at <strong>UNOPAR</strong>. 
+Estudo Analise e desenvolvimento de sistemas na Faculdade <strong>UNOPAR</strong>. 
 
-I am a Front-end programmer and I continue to specialize in JavaScript, focusing lately on the **React.js** library with the **Next.js** framework, and its entire ecosystem.
+Sou desenvolvedor Front end, me especializando em JavaScript, atualmente focando na biblioteca **React.js** com **Next.js** de Framework, e em todo o ecosistema.
 
-<h2><strong>Front-end Developer.</strong></h2> 
+Meus hoobies são praticamente jogar, assistir e escrever, passo a maior parte do tempo vendo carrosséis de programação no Instagram e LinkedIn. 
+
+<h2><strong>Desenvolvedor Front End.</strong></h2> 
 
 <p class="row">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element" title="HTML5" alt="HTML5" target="_blank"> 
