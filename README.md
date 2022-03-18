@@ -38,7 +38,7 @@ Meus hoobies são praticamente jogar, assistir e escrever, passo a maior parte d
   <a/> 
    
   <a href="https://www.typescriptlang.org/" title="TypeScript" alt="TypeScript" target="_blank"> 
-    <img src="https://image.flaticon.com/icons/png/512/919/919832.png" width="42px"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" width="42px"> 
   <a/> 
 </p> 
 
