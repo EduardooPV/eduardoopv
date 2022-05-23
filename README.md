@@ -8,8 +8,6 @@ Estudo Analise e desenvolvimento de sistemas na Faculdade <strong>UNOPAR</strong
 
 Sou desenvolvedor Front end, me especializando em JavaScript, atualmente focando na biblioteca **React.js** com **Next.js** de Framework, e em todo o ecosistema.
 
-Meus hoobies são praticamente jogar, assistir e escrever, passo a maior parte do tempo vendo carrosséis de programação no Instagram e LinkedIn. 
-
 <h2><strong>Desenvolvedor Front End.</strong></h2> 
 
 <p class="row">
