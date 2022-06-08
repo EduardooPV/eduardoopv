@@ -48,7 +48,7 @@ Sou desenvolvedor Front end, me especializando em JavaScript, atualmente focando
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>  
     <a href="https://dev.to/eduardoopv" target="_blank">
-      <img src="https://img.shields.io/badge/-Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank">  
+      <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank">  
     </a>  
 </p>
 
