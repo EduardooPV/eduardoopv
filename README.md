@@ -4,7 +4,8 @@
 
 Me chamo **Luiz Eduardo**, mas todo mundo me chama de *Dudu*, agora a imagem faz sentido, né? kkkkk
 
-Estudo Analise e desenvolvimento de sistemas na Faculdade <strong>UNOPAR</strong>. 
+Formado em Análise e Desenvolvimento de SIstemas pela Universidade Norte do Paraná
+<strong>(UNOPAR)</strong>. 
 
 Sou desenvolvedor Front end, me especializando em JavaScript, atualmente focando na biblioteca **React.js** com **Next.js** de Framework, e em todo o ecosistema.
 
