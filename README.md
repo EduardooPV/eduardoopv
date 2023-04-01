@@ -7,7 +7,9 @@ Me chamo **Luiz Eduardo**, mas todo mundo me chama de *Dudu*, agora a imagem faz
 Formado em Análise e Desenvolvimento de SIstemas pela Universidade Norte do Paraná
 <strong>(UNOPAR)</strong>. 
 
-Sou desenvolvedor Front end, me especializando em JavaScript, atualmente focando na biblioteca **React.js** com **Next.js** de Framework, e em todo o ecosistema.
+Sou desenvolvedor Front end, tenho conhecimento em **Javascript**, com **React.js** de biblioteca e **Next.js** de framework, e em constante estudo em todo o ecosistema por volta do React.js.
+
+Atualmente sigo estudando backend com **Node.js** e **Express** de framework, junto com **React Native**.
 
 ### Tecnologias
 
@@ -15,6 +17,7 @@ Sou desenvolvedor Front end, me especializando em JavaScript, atualmente focando
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://i1.wp.com/blog.alexdevero.com/wp-content/uploads/2018/12/react-native-expo-how-to-build-your-first-mobile-app.jpg?fit=1024%2C635&ssl=1" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
