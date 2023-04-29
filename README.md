@@ -1,6 +1,6 @@
 # Olá, eu sou o Dudu!
 
-
+</br>
 
 ## Sobre mim:
 
@@ -12,7 +12,7 @@
 
 🎨 Também sou fascinado pelo mundo do **UX/UI Design**, estudo e prático sempre que eu tenho oportunidade.
 
-
+</br>
 
 ## Tecnologias e ferramentas:
 
@@ -25,7 +25,7 @@ Electron • Jest • TailwindCSS • GraphQL • Storybook
 ### 📚 Estudo:
 Node.js • React native • Linux • UX/UI • Figma • Infraestrutura
 
-
+</br>
 
 ## Contato:
 📞 Se você acha que **eu posso contribuir** com algo para você, sinta-se à vontade para entrar em contato comigo!
@@ -47,6 +47,7 @@ Node.js • React native • Linux • UX/UI • Figma • Infraestrutura
 </a>
 
 
+</br>
 </br>
 </br>
 </br>
