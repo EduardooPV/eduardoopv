@@ -4,9 +4,11 @@
 
 ## Sobre mim:
 
-👤 Sou um desenvolvedor de software especializado em **Front**-**end**, com vivência em aplicações web, dando ênfase em tecnologias que fazem parte do **ecossistema JavaScript**.
+👤 Sou um desenvolvedor de software especializado em **Front-end**, com experiencia em aplicações web, dando ênfase em tecnologias que fazem parte do **ecossistema JavaScript**.
 
-🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Norte do Paraná (**UNOPAR**).
+🎓 Graduação em **Análise e Desenvolvimento de Sistemas** pela Universidade Norte do Paraná (**UNOPAR**)
+
+🎓 Pós-Graduação em **Desenvolvimento Full-Stack** pela ** Universidade **Descomplica**
 
 💻 Sou apaixonado por tudo relacionado a **programação** e estou sempre consumindo algo novo. 
 
@@ -17,31 +19,20 @@
 ## Tecnologias e ferramentas:
 
 ### 🛠️ Trabalho:
-JavaScript • HTML5 • CSS3 • TailwindCSS • React.js • Next.js • TypeScript • WordPress CMS • Git • Github • Netlify • Vercel
+React.js • Next.js • TypeScript • TailwindCSS • WordPress CMS • Git • Github • Netlify • Vercel
 
 ### 📐 Conheço:
-Electron • Jest • GraphQL • Storybook • Node.js
+Node.js • Jest • Storybook • Deco.cx (ecommerce)
 
 ### 📚 Estudo:
-React native • Linux • UX/UI • Figma • Infraestrutura
+Java • UX/UI • Infraestrutura
 
 </br>
 
 ## Contato:
-📞 Se você acha que **eu posso contribuir** com algo para você, sinta-se à vontade para entrar em contato comigo!
+📞 Se você acha que eu posso contribuir em algo para você, sinta-se à vontade para entrar em contato comigo!
 
-<a href="https://www.linkedin.com/in/luiz-veltroni/" target="_blank">
-  LinkedIn          
-</a>
-• 
-<a href="mailto:eduardoveltroni@hotmail.com" target="_blank">
-  E-mail
-</a>
-• 
-<a href="https://luizeduardo.vercel.app/" target="_blank">
-  Portfolio 
-</a>
-• 
-<a href="https://luizeduardo.vercel.app/blog" target="_blank">
-  Blog 
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luiz-veltroni/)
+[![E-mail](https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:eduardoveltroni@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel&logoColor=white)](https://luizeduardo.vercel.app/)
+[![Blog](https://img.shields.io/badge/-Blog-orange?style=flat-square&logo=blogger&logoColor=white)](https://luizeduardo.vercel.app/blog)
