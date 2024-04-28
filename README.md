@@ -8,7 +8,7 @@
 
 🎓 Graduação em **Análise e Desenvolvimento de Sistemas** pela Universidade Norte do Paraná (**UNOPAR**)
 
-🎓 Pós-Graduação em **Desenvolvimento Full-Stack** pela ** Universidade **Descomplica**
+🎓 Pós-Graduação em **Desenvolvimento Full-Stack** pela Universidade **Descomplica**
 
 💻 Sou apaixonado por tudo relacionado a **programação** e estou sempre consumindo algo novo. 
 
