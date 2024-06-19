@@ -4,25 +4,23 @@
 
 ## Sobre mim:
 
-👤 Sou um desenvolvedor de software especializado em **Front-end**, com experiencia em aplicações web, dando ênfase em tecnologias que fazem parte do **ecossistema JavaScript**.
+👤 Ddesenvolvedor de software especializado em **Front-end**, com experiencia em aplicações web, dando ênfase em tecnologias que fazem parte do **ecossistema JavaScript**.
 
 🎓 Graduação em **Análise e Desenvolvimento de Sistemas** pela Universidade Norte do Paraná (**UNOPAR**)
 
 🎓 Pós-Graduação em **Desenvolvimento Full-Stack** pela Universidade **Descomplica**
 
-💻 Sou apaixonado por tudo relacionado a **programação** e estou sempre consumindo algo novo. 
-
-🎨 Também sou fascinado pelo mundo do **UX/UI Design**, estudo e prático sempre que eu tenho oportunidade.
+🎨 Fascinado pelo mundo do **UX/UI Design**, estudo e prático sempre que eu tenho oportunidade.
 
 </br>
 
 ## Tecnologias e ferramentas:
 
 ### 🛠️ Trabalho:
-React.js • Next.js • TypeScript • TailwindCSS • WordPress CMS • Git • Github • Netlify • Vercel
+React.js • Next.js • TypeScript • TailwindCSS • WordPress CMS • Deco.cx (ecommerce) • Netlify • Vercel
 
 ### 📐 Conheço:
-Node.js • Jest • Storybook • Deco.cx (ecommerce)
+Angular • Node.js • Jest • Storybook
 
 ### 📚 Estudo:
 Java • UX/UI • Infraestrutura
