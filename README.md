@@ -4,7 +4,7 @@
 
 ## Sobre mim:
 
-👤 Ddesenvolvedor de software especializado em **Front-end**, com experiencia em aplicações web, dando ênfase em tecnologias que fazem parte do **ecossistema JavaScript**.
+👤 Desenvolvedor de software especializado em **Front-end**, com experiencia em aplicações web, dando ênfase em tecnologias que fazem parte do **ecossistema JavaScript**.
 
 🎓 Graduação em **Análise e Desenvolvimento de Sistemas** pela Universidade Norte do Paraná (**UNOPAR**)
 
