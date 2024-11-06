@@ -1,4 +1,6 @@
-# Olá, eu sou o Dudu!
+Desenvolvedor Front-end. Com mais de 3 anos de experiência, especializado em desenvolvimento web utilizando JavaScript, React.js e Next.js. 
+
+Tenho um histórico comprovado na criação de sites, blogs e e-commerces de alta qualidade com experiência em metodologias ágeis, gerenciamento de projetos e otimização de performance.
 
 </br>
 
@@ -15,13 +17,10 @@
 ## Tecnologias e ferramentas:
 
 ### 🛠️ Trabalho:
-React.js • Next.js • TypeScript • TailwindCSS • WordPress • Deco.cx (ecommerce) • Vercel
+Javascript • Typescript • React.js • Next.js • TypeScript • TailwindCSS • WordPress • Deco.cx (ecommerce)
 
 ### 📐 Conheço:
-Vue.js • Node.js • Jest • Storybook
-
-### 📚 Estudo:
-Google Cloud Plataform (GCP) • Infraestrutura
+Vue.js • Node.js • Storybook • Testes unitários • CI/CD • Docker • UX/UI
 
 </br>
 
