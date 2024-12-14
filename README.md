@@ -17,10 +17,10 @@ Tenho um histórico comprovado na criação de sites, blogs e e-commerces de alt
 ## Tecnologias e ferramentas:
 
 ### 🛠️ Trabalho:
-Javascript • Typescript • React.js • Next.js • TypeScript • TailwindCSS • WordPress • Deco.cx (ecommerce)
+Typescript • React.js • Next.js • Vue.js • TailwindCSS • WordPress • Deco.cx (ecommerce)
 
 ### 📐 Conheço:
-Vue.js • Node.js • Storybook • Testes unitários • CI/CD • Docker • UX/UI
+Node.js • Storybook • Testes unitários • CI/CD • Docker • UX/UI
 
 </br>
 
