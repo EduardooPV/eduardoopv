@@ -1,28 +1,13 @@
-Desenvolvedor Front-end. Com mais de 3 anos de experiência, especializado em desenvolvimento web utilizando JavaScript, React.js e Next.js. 
-
-Tenho um histórico comprovado na criação de sites, blogs e e-commerces de alta qualidade com experiência em metodologias ágeis, gerenciamento de projetos e otimização de performance.
-
-</br>
-
 ## Sobre mim:
+👤 Desenvolvedor Front-end com um histórico comprovado na criação e manutenção de sites, blogs, plataformas e e-commerces de alta qualidade com experiência em metodologias ágeis, gerenciamento de projetos e otimização de performance.
 
-👤 Desenvolvedor **Front-end**, com experiencia em aplicações web, dando ênfase em tecnologias que fazem parte do **ecossistema JavaScript**.
-
-🎓 Graduação em **Análise e Desenvolvimento de Sistemas** pela Universidade Norte do Paraná (**UNOPAR**)
-
-🎓 Pós-Graduação em **Desenvolvimento Full-Stack** pela Universidade **Descomplica**
-
-</br>
+🎓 Formado em **Análise e Desenvolvimento de Sistemas** e cursando Pós-Graduação em **Desenvolvimento Full-Stack**.
 
 ## Tecnologias e ferramentas:
 
-### 🛠️ Trabalho:
-Typescript • React.js • Next.js • Vue.js • TailwindCSS • WordPress • Deco.cx (ecommerce)
+Javascript • Typescript • Vue.js • React.js • Next.js • Deco.cx (e-commerce)
 
-### 📐 Conheço:
-Node.js • Storybook • Testes unitários • CI/CD • Docker • UX/UI
-
-</br>
+WordPress • TailwindCSS • Storybook • Testes unitários • CI/CD • Docker
 
 ## Contato:
 📞 Se você acha que eu posso contribuir em algo para você, sinta-se à vontade para entrar em contato comigo!
