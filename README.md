@@ -5,9 +5,8 @@
 
 ## Tecnologias e ferramentas:
 
-Javascript • Typescript • Vue.js • React.js • Next.js • Deco.cx (e-commerce)
-
-WordPress • TailwindCSS • Storybook • Testes unitários • CI/CD • Docker
+Typescript • Vue.js • React.js • Next.js • Deco.cx (e-commerce)
+TailwindCSS • Storybook • Testes • CI/CD • WordPress
 
 ## Contato:
 📞 Se você acha que eu posso contribuir em algo para você, sinta-se à vontade para entrar em contato comigo!
