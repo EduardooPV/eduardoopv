@@ -9,7 +9,7 @@
 
 • Backend: Node.js, Nest.js, Express e Fastify
 
-• Estilização: RadixUI, Shadcn/UI, CSS-In-JS (styled-components) e TailwindCSS
+• Estilização: RadixUI, Shadcn/UI, CSS-In-JS e TailwindCSS
 
 • Testes unitários: Jest, Testing Library e Vitest
 
