@@ -1,19 +1,21 @@
 ## Sobre mim:
 👤 Desenvolvedor Front-end com experiência na criação e manutenção de sites, blogs, plataformas e e-commerces de alta qualidade. Com vivencia em metodologias ágeis, gerenciamento de projetos e otimização de performance.
 
-🎓 Formado em **Análise e Desenvolvimento de Sistemas** e cursando Pós-Graduação em **Desenvolvimento Full-Stack**.
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**.
 
 ## Tecnologias e ferramentas:
 
-• Frontend: Typescript, Vue.js, React.js e Storybook
+• Frontend: Typescript, Vue.js, React.js e Next.js
 
 • Backend: Node.js, Nest.js, Express e Fastify
 
-• Estilização: RadixUI, Shadcn/UI, CSS-In-JS e TailwindCSS
+• Mobile: Flutter
+
+• Estilização: Storybook, RadixUI, Shadcn/UI, CSS-In-JS e TailwindCSS
 
 • Testes unitários: Jest, Testing Library e Vitest
 
-• Outros conhecimentos: CI/CD, AWS e Datadog
+• Outros conhecimentos: CI/CD, AWS, Github Actions e Datadog
 
 ## Contato:
 📞 Se você acha que eu posso contribuir em algo para você, sinta-se à vontade para entrar em contato comigo!
