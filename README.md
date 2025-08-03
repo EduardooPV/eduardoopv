@@ -1,24 +1,28 @@
-## Sobre mim:
-👤 Desenvolvedor Front-end com experiência na criação e manutenção de sites, blogs, plataformas e e-commerces de alta qualidade. Com vivencia em metodologias ágeis, gerenciamento de projetos e otimização de performance.
+## 👤 Sobre mim:
+Opa! Sou o Luiz Eduardo desenvolvedor com experiência sólida na construção, manutenção e evolução de plataformas digitais, e-commerces e sistemas de grande escala.
 
-🎓 Formado em **Análise e Desenvolvimento de Sistemas**.
+Atualmente trabalho como Engenheiro de Software na **Warren Investimentos**, focado em experiências performáticas, arquitetura escalável, microsserviços e design systems. 
 
-## Tecnologias e ferramentas:
+## 🚀 Tecnologias e ferramentas:
 
-• Frontend: Typescript, Vue.js, React.js e Next.js
+### Frontend:
+- Typescript, Vue.js, React.js, Next.js  
 
-• Backend: Node.js, Nest.js, Express e Fastify
+### Backend:  
+- Node.js, Nest.js, Express
 
-• Mobile: Flutter
+### Mobile:
+- Flutter
 
-• Estilização: Storybook, RadixUI, Shadcn/UI, CSS-In-JS e TailwindCSS
+### Testes:  
+- Cypress, Jest, Testing Library, Vitest  
 
-• Testes unitários: Jest, Testing Library e Vitest
+### DevOps e Observabilidade:  
+- GitHub Actions, CI/CD, Docker  
+- AWS, Datadog, JSReport
 
-• Outros conhecimentos: CI/CD, AWS, Github Actions e Datadog
-
-## Contato:
-📞 Se você acha que eu posso contribuir em algo para você, sinta-se à vontade para entrar em contato comigo!
+## 📞 Contato:
+Se quiser trocar uma ideia, tirar dúvidas técnicas ou conversar sobre projetos:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/luiz-veltroni/)
 [![E-mail](https://img.shields.io/badge/-E--mail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:eduardoveltroni@hotmail.com)
