@@ -1,7 +1,7 @@
 ## 👤 Sobre mim:
-Opa! Sou o Luiz Eduardo desenvolvedor com experiência sólida na construção, manutenção e evolução de plataformas digitais, e-commerces e sistemas de grande escala.
+Opa! Sou o Luiz Eduardo desenvolvedor com experiência na construção, manutenção e evolução de plataformas digitais, e-commerces e sistemas de grande escala.
 
-Atualmente trabalho como Engenheiro de Software na **Warren Investimentos**, focado em experiências performáticas, arquitetura escalável, microsserviços e design systems. 
+Atualmente trabalho como Software Engineer na **Warren Investimentos**, focado nas experiências performáticas, arquitetura escalável, microsserviços e design systems de uma plataforma de investimentos. 
 
 ## 🚀 Tecnologias e ferramentas:
 
