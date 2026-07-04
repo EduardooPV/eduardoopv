@@ -1,7 +1,6 @@
 <h1 align="left">Opa, e ai?</h1>
 
-<p align="left">Prazer, me chamo Luiz Eduardo, Software Engineer com 5+ anos construindo e evoluindo sites, ecommerces, blogs e produtos digitais em fintechs.</p>
-
+<p align="left">Prazer, me chamo Luiz Eduardo, Software Engineer atuando em produtos financeiros regulados na Warren Investimentos. Tenho base sólida em frontend moderno (TypeScript, React, Vue) e atuo também em backend, infraestrutura e segurança (NestJS, .NET, AWS, Kubernetes, OAuth2/OIDC). Gosto de entender o funcionamento interno das tecnologias e resolver problemas com profundidade, não só na superfície.</p>p>
 <h2 align="left">Tecnologias</h2>
 
 <div align="left">
