@@ -14,20 +14,12 @@
   <a href="mailto:eduardoveltroni@hotmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
----
+## Currently
 
-## Selected projects
+Closing the queues and observability phases of `corretora-investimentos`, and writing about what changes in day-to-day engineering when the requirement comes from a regulator instead of a PM.
 
-These are labs, not toys. Each one exists to answer a concrete engineering question, and each README opens with **problem → decision → trade-off**.
+Open to fullstack / backend roles in fintech and product companies (Brazil, remote or São Paulo).
 
-| Project | Question it answers | Stack | Evidence in the repo |
-| --- | --- | --- | --- |
-| **[shopping-list-api](https://github.com/EduardooPV/shopping-list-api)** | How much framework do you actually need? A production-shaped REST API written on Node's native `http` — no Express, no Nest. | Node.js (native http), TypeScript, Prisma, PostgreSQL, Jest, Docker, Kubernetes | JWT + refresh token in HttpOnly cookie, bcrypt, use cases / entities, OpenAPI 3 served via Scalar, Prometheus latency histogram (p50/p95/p99), K8s manifests, GitHub Actions |
-| **[corretora-investimentos](https://github.com/EduardooPV/corretora-investimentos)** | What actually breaks in a brokerage domain (Account, Asset, Order) as you add infrastructure? Built in phases: naive first, then measured, then fixed. | Vue, NestJS (BFF), .NET, PostgreSQL, Redis, RabbitMQ, Keycloak, Grafana | An N+1 introduced **on purpose** and measured before being fixed, idempotency key on order placement, ACID transaction on balance, OAuth2 + PKCE via Keycloak |
-| **[aws-serverless](https://github.com/EduardooPV/aws-serverless)** | Can a distributed financial flow be developed and tested end to end locally, before touching a real AWS bill? | .NET, LocalStack, Terraform, AWS (Lambda, SQS, SNS) | Phase 1 shipped: infrastructure as code + API running on LocalStack. Later phases (DLQ, SNS fan-out, Step Functions, Saga) are **roadmap, marked as such** |
-| **[mock-bff](https://github.com/EduardooPV/mock-bff)** | How do you unblock front-end work when the BFF does not exist yet? | Vue, Node.js, Express | Configurable mock BFF with editable routes, payloads and latency |
-
-Phase status is always explicit: ✅ done · 🚧 in progress · ⬜ planned.
 
 ## Experience in one paragraph
 
@@ -49,54 +41,6 @@ Phase status is always explicit: ✅ done · 🚧 in progress · ⬜ planned.
 
 **Auth** — OAuth2 / OIDC · Keycloak · JWT · RBAC
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34" alt="typescript" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" alt="nodejs" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="34" alt="nestjs" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="34" alt="dotnet" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="34" alt="vue" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="react" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="34" alt="nextjs" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="postgresql" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="34" alt="redis" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="34" alt="rabbitmq" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="docker" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="34" alt="kubernetes" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="34" alt="terraform" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="34" alt="aws" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="34" alt="github actions" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="34" alt="grafana" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original.svg" height="34" alt="datadog" />
-  <img width="10" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" height="34" alt="playwright" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="34" alt="vitest" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="34" alt="storybook" />
-</div>
-
-## Currently
-
-Closing the queues and observability phases of `corretora-investimentos`, and writing about what changes in day-to-day engineering when the requirement comes from a regulator instead of a PM.
-
-Open to fullstack / backend roles in fintech and product companies (Brazil, remote or São Paulo).
-
 ---
 
 <details>
@@ -104,13 +48,34 @@ Open to fullstack / backend roles in fintech and product companies (Brazil, remo
 
 <br/>
 
-Sou **Software Engineer fullstack** e trabalho com **produtos financeiros regulados** na **Warren Investimentos**: cadastro, compliance, portabilidade de investimentos (CVM 210), WaaS e ferramentas internas de backoffice. Vue no front, Node.js/NestJS como BFF e .NET nos microsserviços, com testes automatizados (Playwright, Cypress, Vitest), CI/CD e observabilidade (Datadog, Grafana).
+Sou **Software Engineer Fullstack** e desenvolvo **sistemas financeiros regulados** na **Warren Investimentos** — cadastro de investidores, compliance, portabilidade de investimentos (CVM 210) e Wealth as a Service (WaaS).
 
-Antes disso passei 3 anos na **Monks**, de estagiário a pleno, construindo aplicações React/Next.js com Headless CMS, bibliotecas de componentes com Storybook, SEO técnico, acessibilidade e performance web para clientes nacionais e internacionais.
+Nesse domínio, um bug não representa apenas uma experiência ruim para o usuário: ele pode se tornar um incidente regulatório. Por isso, grande parte do meu trabalho é voltada para **confiabilidade, rastreabilidade e decisões com trade-offs explícitos**.
 
-Os repositórios acima são laboratórios com um objetivo por vez: cada um responde a uma pergunta técnica concreta e o README explica **problema → decisão → trade-off**, com o status de cada fase marcado explicitamente.
+## Atualmente
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/luiz-veltroni/)
-- ✉️ eduardoveltroni@hotmail.com
+Finalizando as etapas de fechamento de filas e observabilidade do projeto `corretora-investimentos`, além de escrever sobre como a engenharia de software muda quando o requisito vem de um regulador, e não de um Product Manager.
+
+Aberto a oportunidades como desenvolvedor fullstack ou backend em fintechs e empresas de produto (Brasil, remoto ou São Paulo).
+
+## Experiência em um parágrafo
+
+**Warren Investimentos** — Software Engineer Fullstack (Nov/2024 → atual). Plataforma de investimentos: cadastro, compliance, portabilidade de investimentos (CVM 210), Wealth as a Service (WaaS) e ferramentas internas de backoffice. Vue no frontend, Node.js/NestJS como BFF e microsserviços em .NET, com testes automatizados (Playwright, Cypress e Vitest), CI/CD com GitHub Actions e observabilidade com Datadog e Grafana.
+
+**Monks** — Engenheiro Front-end (Jul/2021 → Nov/2024), de estagiário a pleno. Desenvolvimento com React, Next.js e TypeScript para clientes nacionais e internacionais, utilizando Headless CMS, bibliotecas reutilizáveis de componentes com Storybook, além de trabalhos em SEO técnico, acessibilidade e performance web.
+
+## Stack
+
+**Frontend** — TypeScript · JavaScript · React · Next.js · Vue · Storybook · Design Systems · Micro frontends · Performance Web · Acessibilidade
+
+**Backend** — Node.js · NestJS · .NET 8 / C# · APIs REST · BFF · Microsserviços
+
+**Dados & Mensageria** — PostgreSQL · Prisma · Redis · RabbitMQ
+
+**Cloud & DevOps** — AWS · Docker · Terraform · GitHub Actions · CI/CD · Kubernetes (manifests e cluster local com `kind`)
+
+**Qualidade & Observabilidade** — Jest · Vitest · Cypress · Playwright · Prometheus · Grafana · Datadog
+
+**Autenticação** — OAuth2 / OIDC · Keycloak · JWT · RBAC
 
 </details>
