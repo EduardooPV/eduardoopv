@@ -16,7 +16,7 @@
 
 ## Currently
 
-Closing the queues and observability phases of `corretora-investimentos`, and writing about what changes in day-to-day engineering when the requirement comes from a regulator instead of a PM.
+Closing the queues and observability phases of `brokerage-lab`, and writing about what changes in day-to-day engineering when the requirement comes from a regulator instead of a PM.
 
 Open to fullstack / backend roles in fintech and product companies (Brazil, remote or São Paulo).
 
@@ -54,7 +54,7 @@ Nesse domínio, um bug não representa apenas uma experiência ruim para o usuá
 
 ## Atualmente
 
-Finalizando as etapas de fechamento de filas e observabilidade do projeto `corretora-investimentos`, além de escrever sobre como a engenharia de software muda quando o requisito vem de um regulador, e não de um Product Manager.
+Finalizando as etapas de fechamento de filas e observabilidade do projeto `brokerage-lab`, além de escrever sobre como a engenharia de software muda quando o requisito vem de um regulador, e não de um Product Manager.
 
 Aberto a oportunidades como desenvolvedor fullstack ou backend em fintechs e empresas de produto (Brasil, remoto ou São Paulo).
 
