@@ -2,6 +2,11 @@
 
 <p align="left">
   <b>Fullstack Software Engineer</b> &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Node.js / NestJS &nbsp;·&nbsp; .NET &nbsp;·&nbsp; Vue &amp; React
+
+  <p align="left">
+  <a href="https://www.linkedin.com/in/luiz-veltroni/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:eduardoveltroni@hotmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
+</p>
 </p>
 
 <p align="left">
@@ -9,11 +14,6 @@
   In this domain a bug is a regulatory incident, not just a bad UX, so most of my work is about <b>reliability, traceability and explicit trade-offs</b>.
 
   Open to fullstack / backend roles in fintech and product companies (Brazil, remote or São Paulo).
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/luiz-veltroni/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:eduardoveltroni@hotmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
 ## Experience in one paragraph
