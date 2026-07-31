@@ -7,19 +7,14 @@
 <p align="left">
   I build <b>regulated fintech systems</b> at <b>Warren Investimentos</b> — investment onboarding, compliance, portability (CVM 210) and Wealth as a Service (WaaS).
   In this domain a bug is a regulatory incident, not just a bad UX, so most of my work is about <b>reliability, traceability and explicit trade-offs</b>.
+
+  Open to fullstack / backend roles in fintech and product companies (Brazil, remote or São Paulo).
 </p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/luiz-veltroni/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:eduardoveltroni@hotmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
-
-## Currently
-
-Closing the queues and observability phases of `brokerage-lab`, and writing about what changes in day-to-day engineering when the requirement comes from a regulator instead of a PM.
-
-Open to fullstack / backend roles in fintech and product companies (Brazil, remote or São Paulo).
-
 
 ## Experience in one paragraph
 
@@ -51,10 +46,6 @@ Open to fullstack / backend roles in fintech and product companies (Brazil, remo
 Sou **Software Engineer Fullstack** e desenvolvo **sistemas financeiros regulados** na **Warren Investimentos** — cadastro de investidores, compliance, portabilidade de investimentos (CVM 210) e Wealth as a Service (WaaS).
 
 Nesse domínio, um bug não representa apenas uma experiência ruim para o usuário: ele pode se tornar um incidente regulatório. Por isso, grande parte do meu trabalho é voltada para **confiabilidade, rastreabilidade e decisões com trade-offs explícitos**.
-
-## Atualmente
-
-Finalizando as etapas de fechamento de filas e observabilidade do projeto `brokerage-lab`, além de escrever sobre como a engenharia de software muda quando o requisito vem de um regulador, e não de um Product Manager.
 
 Aberto a oportunidades como desenvolvedor fullstack ou backend em fintechs e empresas de produto (Brasil, remoto ou São Paulo).
 
