@@ -1,40 +1,72 @@
 <h1 align="left">Luiz Eduardo Prado Veltroni</h1>
 
 <p align="left">
-  <b>Fullstack Software Engineer</b> &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Node.js / NestJS &nbsp;·&nbsp; .NET &nbsp;·&nbsp; Vue &amp; React
-
-  <p align="left">
-  <a href="https://www.linkedin.com/in/luiz-veltroni/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:eduardoveltroni@hotmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
-</p>
+  <b>Fullstack Software Engineer</b> &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Vue &amp; React &nbsp;·&nbsp; Node.js / NestJS &nbsp;·&nbsp; .NET
 </p>
 
 <p align="left">
-  I build <b>regulated fintech systems</b> at <b>Warren Investimentos</b> — investment onboarding, compliance, portability (CVM 210) and Wealth as a Service (WaaS).
-  In this domain a bug is a regulatory incident, not just a bad UX, so most of my work is about <b>reliability, traceability and explicit trade-offs</b>.
-
-  Open to fullstack / backend roles in fintech and product companies (Brazil, remote or São Paulo).
+  <a href="https://www.linkedin.com/in/luiz-veltroni/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:eduardoveltroni@hotmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
-## Experience in one paragraph
+<p align="left">
+  I'm a <b>Fullstack Software Engineer</b> building web applications and financial systems with <b>TypeScript, Vue, React, Node.js and .NET</b>.
+</p>
 
-**Warren Investimentos** — Fullstack Software Engineer (Nov/2024 → now). Investment platform: onboarding, compliance, CVM 210 portability, WaaS and internal backoffice tooling. Vue + Node.js/NestJS BFF + .NET microservices, with automated tests (Playwright, Cypress, Vitest), CI/CD on GitHub Actions and observability on Datadog/Grafana.
+<p align="left">
+  At <b>Warren Investimentos</b>, I work on regulated financial products across onboarding, compliance, investments, portability (CVM 210) and Wealth as a Service (WaaS).
+</p>
 
-**Monks** — Front-end Engineer (Jul/2021 → Nov/2024), from intern to mid-level. React, Next.js, TypeScript and Headless CMS for national and international clients; reusable component libraries with Storybook distributed as internal packages; technical SEO, accessibility and web performance work.
+<p align="left">
+  My experience spans <b>frontend applications, BFFs, APIs, microservices, authentication, observability and cloud infrastructure</b>. I enjoy understanding how the layers connect — from the user interface to backend services, data, infrastructure and production behavior.
+</p>
+
+<p align="left">
+  Currently open to <b>fullstack and backend opportunities</b> in fintech and product companies — Brazil, remote or São Paulo.
+</p>
+
+## Experience
+
+**Warren Investimentos** — Fullstack Software Engineer · Nov/2024 → now
+
+Building regulated financial products across frontend, BFFs and backend services. Vue + TypeScript on the frontend, Node.js/NestJS BFFs and .NET microservices, with experience in testing, CI/CD, observability, authentication and cloud infrastructure.
+
+**Monks** — Front-end Engineer · Jul/2021 → Nov/2024
+
+Built web applications for national and international clients using React, Next.js and TypeScript. Worked with Headless CMS, reusable component libraries, Storybook, accessibility, technical SEO and web performance.
+
+## Selected projects
+
+**[Brokerage Lab](https://github.com/EduardooPV/brokerage-lab)** · Fullstack brokerage platform exploring authentication, idempotency, transactions, asynchronous processing, caching and observability. Vue 3, NestJS, .NET, PostgreSQL, Redis, RabbitMQ, Keycloak.
+
+**[Shopping List API](https://github.com/EduardooPV/shopping-list-api)** · REST API built without a framework to explore HTTP fundamentals, authentication, persistence, API design and observability. Node.js, TypeScript, PostgreSQL, JWT, OpenAPI, Prometheus, Grafana.
+
+**[AWS Serverless Brokerage](https://github.com/EduardooPV/aws-serverless)** · Distributed financial architecture laboratory exploring asynchronous processing, idempotency, retries, DLQs and Saga patterns. .NET, AWS Lambda, SQS, SNS, Step Functions, DynamoDB, Terraform, LocalStack.
+
+## Technical focus
+
+* **Frontend architecture** — component systems, Design Systems, Microfrontends and Server-Driven UI
+* **Backend & BFF** — REST APIs, business logic, service integration and distributed systems
+* **Financial systems** — onboarding, compliance, investments, portability and multi-tenant platforms
+* **Reliability** — automated testing, observability, caching, CI/CD and production diagnostics
+* **Security** — OAuth2/OIDC, Keycloak, JWT, RBAC and authentication flows
+* **Infrastructure** — AWS, OCI, Kubernetes and deployment automation
 
 ## Stack
 
-**Frontend** — TypeScript · JavaScript · React · Next.js · Vue · Storybook · Design Systems · Micro frontends · Web performance · Accessibility
+**Frontend** — TypeScript · JavaScript · React · Next.js · Vue · Storybook · Design Systems · Microfrontends · Server-Driven UI · Web Performance · Accessibility
 
-**Backend** — Node.js · NestJS · .NET 8 / C# · REST APIs · BFF · Microservices
+**Backend & APIs** — Node.js · NestJS · .NET / C# · REST APIs · BFF · Microservices
 
-**Data & messaging** — PostgreSQL · Prisma · Redis · RabbitMQ
+**Architecture** — Clean Architecture · Multi-tenant systems · Distributed systems · Event-driven architecture
 
-**Cloud & DevOps** — AWS · Docker · Terraform · GitHub Actions · CI/CD · Kubernetes (manifests, local `kind` cluster)
+**Data & Messaging** — PostgreSQL · Prisma · MongoDB · Redis · RabbitMQ · S3
 
-**Quality & observability** — Jest · Vitest · Cypress · Playwright · Prometheus · Grafana · Datadog
+**Cloud & DevOps** — AWS · OCI · Docker · Terraform · Kubernetes · Helm · GitHub Actions · CI/CD
 
-**Auth** — OAuth2 / OIDC · Keycloak · JWT · RBAC
+**Quality & Observability** — Jest · Vitest · Cypress · Playwright · Prometheus · Grafana · Datadog · OpenTelemetry
+
+**Security & Identity** — OAuth2 · OIDC · Keycloak · JWT · RBAC · TOTP / MFA
 
 ---
 
@@ -43,30 +75,55 @@
 
 <br/>
 
-Sou **Software Engineer Fullstack** e desenvolvo **sistemas financeiros regulados** na **Warren Investimentos** — cadastro de investidores, compliance, portabilidade de investimentos (CVM 210) e Wealth as a Service (WaaS).
+Sou <b>Software Engineer Fullstack</b> e desenvolvo aplicações web e sistemas financeiros utilizando principalmente <b>TypeScript, Vue, React, Node.js e .NET</b>.
 
-Nesse domínio, um bug não representa apenas uma experiência ruim para o usuário: ele pode se tornar um incidente regulatório. Por isso, grande parte do meu trabalho é voltada para **confiabilidade, rastreabilidade e decisões com trade-offs explícitos**.
+Na <b>Warren Investimentos</b>, atuo em produtos financeiros regulados envolvendo cadastro, compliance, investimentos, portabilidade (CVM 210) e Wealth as a Service (WaaS).
 
-Aberto a oportunidades como desenvolvedor fullstack ou backend em fintechs e empresas de produto (Brasil, remoto ou São Paulo).
+Minha experiência abrange <b>aplicações frontend, BFFs, APIs, microsserviços, autenticação, observabilidade e infraestrutura cloud</b>. Gosto de entender como as diferentes camadas do sistema se conectam — da interface aos serviços backend, dados, infraestrutura e comportamento em produção.
 
-## Experiência em um parágrafo
+Atualmente aberto a oportunidades como <b>Software Engineer Fullstack ou Backend</b> em fintechs e empresas de produto — Brasil, remoto ou São Paulo.
 
-**Warren Investimentos** — Software Engineer Fullstack (Nov/2024 → atual). Plataforma de investimentos: cadastro, compliance, portabilidade de investimentos (CVM 210), Wealth as a Service (WaaS) e ferramentas internas de backoffice. Vue no frontend, Node.js/NestJS como BFF e microsserviços em .NET, com testes automatizados (Playwright, Cypress e Vitest), CI/CD com GitHub Actions e observabilidade com Datadog e Grafana.
+## Experiência
 
-**Monks** — Engenheiro Front-end (Jul/2021 → Nov/2024), de estagiário a pleno. Desenvolvimento com React, Next.js e TypeScript para clientes nacionais e internacionais, utilizando Headless CMS, bibliotecas reutilizáveis de componentes com Storybook, além de trabalhos em SEO técnico, acessibilidade e performance web.
+**Warren Investimentos** — Software Engineer Fullstack · Nov/2024 → atual
+
+Desenvolvimento de produtos financeiros regulados atuando entre frontend, BFFs e serviços backend. Vue + TypeScript no frontend, Node.js/NestJS em BFFs e microsserviços em .NET, com experiência em testes, CI/CD, observabilidade, autenticação e infraestrutura cloud.
+
+**Monks** — Front-end Engineer · Jul/2021 → Nov/2024
+
+Desenvolvimento de aplicações web para clientes nacionais e internacionais utilizando React, Next.js e TypeScript. Experiência com Headless CMS, bibliotecas reutilizáveis de componentes, Storybook, acessibilidade, SEO técnico e performance web.
+
+## Projetos selecionados
+
+**[Brokerage Lab](https://github.com/EduardooPV/brokerage-lab)** · Plataforma fullstack de uma corretora, explorando autenticação, idempotência, transações, processamento assíncrono, cache e observabilidade. Vue 3, NestJS, .NET, PostgreSQL, Redis, RabbitMQ, Keycloak.
+
+**[Shopping List API](https://github.com/EduardooPV/shopping-list-api)** · API REST construída sem framework para explorar fundamentos de HTTP, autenticação, persistência, design de APIs e observabilidade. Node.js, TypeScript, PostgreSQL, JWT, OpenAPI, Prometheus, Grafana.
+
+**[AWS Serverless Brokerage](https://github.com/EduardooPV/aws-serverless)** · Laboratório de arquitetura financeira distribuída explorando processamento assíncrono, idempotência, retries, DLQs e padrões Saga. .NET, AWS Lambda, SQS, SNS, Step Functions, DynamoDB, Terraform, LocalStack.
+
+## Foco técnico
+
+* **Arquitetura frontend** — sistemas de componentes, Design Systems, Microfrontends e Server-Driven UI
+* **Backend & BFF** — APIs REST, regras de negócio, integração entre serviços e sistemas distribuídos
+* **Sistemas financeiros** — cadastro, compliance, investimentos, portabilidade e plataformas multi-tenant
+* **Confiabilidade** — testes automatizados, observabilidade, cache, CI/CD e diagnóstico em produção
+* **Segurança** — OAuth2/OIDC, Keycloak, JWT, RBAC e fluxos de autenticação
+* **Infraestrutura** — AWS, OCI, Kubernetes e automação de deploy
 
 ## Stack
 
-**Frontend** — TypeScript · JavaScript · React · Next.js · Vue · Storybook · Design Systems · Micro frontends · Performance Web · Acessibilidade
+**Frontend** — TypeScript · JavaScript · React · Next.js · Vue · Storybook · Design Systems · Microfrontends · Server-Driven UI · Performance Web · Acessibilidade
 
-**Backend** — Node.js · NestJS · .NET 8 / C# · APIs REST · BFF · Microsserviços
+**Backend & APIs** — Node.js · NestJS · .NET / C# · APIs REST · BFF · Microsserviços
 
-**Dados & Mensageria** — PostgreSQL · Prisma · Redis · RabbitMQ
+**Arquitetura** — Clean Architecture · Sistemas multi-tenant · Sistemas distribuídos · Arquitetura orientada a eventos
 
-**Cloud & DevOps** — AWS · Docker · Terraform · GitHub Actions · CI/CD · Kubernetes (manifests e cluster local com `kind`)
+**Dados & Mensageria** — PostgreSQL · Prisma · MongoDB · Redis · RabbitMQ · S3
 
-**Qualidade & Observabilidade** — Jest · Vitest · Cypress · Playwright · Prometheus · Grafana · Datadog
+**Cloud & DevOps** — AWS · OCI · Docker · Terraform · Kubernetes · Helm · GitHub Actions · CI/CD
 
-**Autenticação** — OAuth2 / OIDC · Keycloak · JWT · RBAC
+**Qualidade & Observabilidade** — Jest · Vitest · Cypress · Playwright · Prometheus · Grafana · Datadog · OpenTelemetry
+
+**Segurança & Identidade** — OAuth2 · OIDC · Keycloak · JWT · RBAC · TOTP / MFA
 
 </details>
