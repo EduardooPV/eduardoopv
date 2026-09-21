@@ -14,10 +14,12 @@ em Vue e TypeScript e os BFFs em Node/NestJS que as conectam a microsserviços.
 ## Experiência
 
 **Warren Investimentos** — Software Engineer · nov/2024 → set/2026
+
 Produtos financeiros regulados: Vue + TypeScript no frontend, BFFs em
 Node/NestJS, testes com Vitest/Playwright/Cypress, CI/CD e observabilidade.
 
 **Monks** — Front-end Engineer · jul/2021 → nov/2024
+
 Aplicações web com React, Next.js e Headless CMS para clientes nacionais e
 internacionais. Design Systems, Storybook, acessibilidade, SEO técnico e
 Web Performance.
@@ -31,7 +33,11 @@ Web Performance.
 ## Stack
 
 **Frontend** — TypeScript · Vue 3 · React · Next.js · Design Systems · Storybook · Server-Driven UI · Acessibilidade · Web Performance
+
 **Backend & BFF** — Node.js · NestJS · REST APIs · .NET/C#
+
 **Qualidade** — Vitest · Jest · Cypress · Playwright · GitHub Actions
+
 **Observabilidade** — Datadog · OpenTelemetry · Grafana
+
 **Auth** — OAuth2 · OIDC · Keycloak · JWT
