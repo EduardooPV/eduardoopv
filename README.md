@@ -1,6 +1,6 @@
 # Luiz Eduardo Prado Veltroni
 
-**Software Engineer** · Frontend & BFF · TypeScript · Vue · React · Next.js · Node/NestJS
+**Software Engineer** · Frontend & Fullstack · TypeScript · Vue · React · Next.js · Node/NestJS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-veltroni/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=flat-square)](https://luiz-eduardo-veltroni.vercel.app)
